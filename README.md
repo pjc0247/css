@@ -3,8 +3,15 @@ cocos2d-x style sheet
 
 a
 ----
+```
 css::attribute_set
-			* get/set
+	* get/set
+css::object
+	* add/remove class
+	* set/get id
+		
+css::global
+```
 
 class
 ----
