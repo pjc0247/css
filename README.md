@@ -1,6 +1,11 @@
 # css
 cocos2d-x style sheet
 
+a
+----
+css::attribute_set
+			* get/set
+
 class
 ----
 ```css
