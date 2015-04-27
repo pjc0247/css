@@ -25,7 +25,9 @@ class
 }
 ```
 ```C++
-class FooMonster : public cocos2d::Sprite{
+class FooMonster :
+	public cocos2d::Sprite,
+	public css::object {
 public:
   FooMonster()  : 
     klass("FooMonster"){
